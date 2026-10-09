@@ -20,6 +20,7 @@ Readable in a sitting, and yours to hack.
 |---|---|
 | [**wrencode**](https://github.com/almostly/wrencode) | A minimal agent harness for coding, in a single Python file. The whole tool-calling agent loop fits in one readable file and runs against local or hosted models, interactively or headless. [Docs](https://almostly.ai/wrencode/) |
 | [**oblako**](https://github.com/almostly/oblako) | A local AWS platform. Run Bedrock, SageMaker, Redshift, Step Functions and more on your laptop, with real engines behind the AWS APIs and your boto3 code unmodified. [Docs](https://oblako-sdk.almostly.ai/) |
+| [**pgsesame**](https://github.com/almostly/pgsesame) | Permissions as code for PostgreSQL and Amazon Redshift. Define roles, users, groups and grants in YAML, then plan and apply the difference like Terraform, with every change reviewed in a pull request. |
 | [**jsonflat**](https://github.com/almostly/jsonflat) | Normalize nested JSON into flat records and DataFrames, with the parent-child splitting handled for you. |
 
 ## What we believe
